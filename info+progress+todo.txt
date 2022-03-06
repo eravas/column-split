@@ -1,0 +1,23 @@
+design notes
+- 	left side position (1, 6) and right side position (1, 6) will be used as the side differentiators
+	for QMK to tell handedness (row 1, column 6)
+-	thumb clusters will be on a hinge and connected to the main board with a molex connector
+-	foam layer on the PCB to tune sound profile (more clack or more thock) as needed
+-	The Elite-C will be placed towards the "inside", beside the key-matrix on the top side of the PCB, 
+	so it will be visible
+-	The TRRS jack will not be hidden. Attached to the PCB form the top side.
+-	There will be the PCB layer, below the PCB will be the bottom plate, attached with standoffs tall
+	enough to clear the hotswap sockets and leave some extra room.
+-	Above the PCB layer will be the top plate, on which the switches will be mounted. It will also
+	be attached to the PCB with appropriate length standoffs
+-	Clear acryllic plate attached with standoffs will cover the Elite-C and TRRS port
+
+->> PROGRESS:
+-	Finished PCB designs for left and right sides
+
+->> TODO:
+-	top and bottom plate designs for both left and right half
+-	thumb cluster - main board hinge design
+-	Finalize length for MOLEX cable to connect thumb cluster and main board
+	(either 50.0mm https://www.molex.com/molex/products/part-detail/cable_assemblies/0151330800)
+	(or 100.0mm https://www.molex.com/molex/products/part-detail/cable_assemblies/0151330801)
